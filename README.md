@@ -3,7 +3,7 @@ This assignment compares the performance of different regression models for a sp
 
 The family of model is given as: `f(x, theta) = theta_0 + theta_1 * x_1 + theta_2 * x_2 + theta_3 * cos(x_1) + theta_4 * x_2 * x_2 + theta_5 * tanh(x_1) ` to fit the data (File: **data.npz**). 
 
-## Problem Description
+## Regression Problem Description
 The regression problem involves predicting a continuous target variable based on multiple input features. The dataset used in this analysis contains both training and test datasets, allowing for model evaluation on unseen data.
 Models Evaluated
 
@@ -14,7 +14,7 @@ Models Evaluated
 3.	Polynomial Regression: This model extends linear regression by incorporating polynomial features, allowing for more complex relationships between the features and the target variable.
 
 
-## Evaluation Metric
+## Evaluation Metric and Comparison
 The performance of each model is evaluated using the mean squared error (MSE) on both the training and test datasets. A lower MSE indicates better model performance.
 Results are the following:
 ### Linear Regression:
