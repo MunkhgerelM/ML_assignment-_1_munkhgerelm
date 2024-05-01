@@ -33,6 +33,8 @@ A paired t-test was conducted to compare the performance of linear regression an
 ## Conclusion
 Based on the MSE comparison and statistical analysis, the linear regression shows better performance for this regression problem than and polynomial regression model.
 
-
+## Links: 
+* Github link: https://github.com/MunkhgerelM/ML_assignment-_1_munkhgerelm.git
+* Google colab link: https://colab.research.google.com/drive/1au1ypaywTh96s0_S2xIDhjeAv4WhrRES?usp=sharing
 
 
